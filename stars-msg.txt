@@ -1,0 +1,387 @@
+000	04	The \v00 Colonists you dropped on \p were massacred by the ground troops of \l.
+001	05	Of the \v00 Colonists you dropped on \p, \P were destroyed by planetary defenses, the rest were massacred by the ground troops of \l.
+002	03	The \v00 Colonists you forced to transport down to \p died because you did not colonize the planet first.
+003	04	Your ground troops on \p valiantly destroyed the \v00 attacking barbarians of \l!
+004	04	Your planetary defenses and ground troops on \p destroyed the \v00 invading troops of \l.
+005	02	A multitude of enemies have mounted a \i-prong attack on \p. In the resulting free-for-all everyone involved was killed.
+006	02	You were involved in a \i-way assault on \p. Nobody's troops survived the brutal war.
+007	04	\L have attacked you on \p with \v00 first-rate storm troopers. Though your colonists put up a spirited defense they are crushed.
+008	02	You were involved in a \i-way race for the uninhabited planet, \p. Your forces crush all the opposition.
+009	03	Your colonists were destroyed in a \i-way race for the uninhabited planet, \p. \L now in control of the planet.
+010	01	Your colonists are now in control of \p.
+011	01	Your colonists have deployed the Orbital Construction Module and you now have a Starter Colony orbiting \p.
+012	02	Your troops crush \l's Colonists on \p. You are now in control of the planet.
+013	01	Your colonists you dropped on \p are destroyed in the spirited fighting.
+014	04	There was a massive blood bath at \n involving \i fleets of \i races. There were no survivors.
+015	03	\s slaughtered all opposition at \n without losing a single ship.
+016	03	\s destroyed all opposition at \n with only minimal losses.
+017	03	\s defeated all opposition at \n but suffered heavy losses.
+018	02	Your fleets at \n destroyed all opposition.
+019	02	Your fleets at \n defeated all opposition but suffered heavy losses.
+020	04	Your fleet at \n was obliterated in an \i-way struggle which only \l survived.
+021	04	All of your fleets at \n were destroyed in an \i-way battle leaving \l as the sole survivor.
+022	03	Your people on \p witnessed the spectacle of \i fleets of \i other races obliterating each other.
+023	03	Your colony on \p observed the forces of \l defeating the forces of \i other races.
+024	04	\s and the forces of \l destroyed each other at \n.
+025	04	Your glorious \s stomped the forces of \l at \n.
+026	04	The mighty \s defeated the forces of \l at \n but took heavy casualties.
+027	03	Your fleets at \n trounced the barbarous forces of \l.
+028	03	Your vigilant fleets at \n managed to defeat the savage vermin of \l but not without great loss.
+029	03	Your brave forces at \n were obliterated by the vastly greater forces of the cowardly \l.
+030	03	Your forces at \n died valiantly taking many of the \l vermin with them.
+031	04	\s was lost at \n in a terrible massacre perpetrated by the villainous \l.
+032	04	In a close fight at \n, \s did great damage to the forces of \l before being destroyed.
+033	03	Your people on \p watched in amazement as the forces of \l and \l annihilated each other.
+034	03	Your colony on \p observed \l forces defeating the forces of \l.
+035	01	All of your colonists on \p have died off. You no longer control the planet.
+036	01	All of your colonists orbiting \p have died off. Your starbase has been lost and you no longer control the planet.
+037	05	The population on \p has decreased from \v00 to \v00.
+038	03	The population on \p has decreased by \v00 colonists due to overcrowding.
+039	01	\s has run out of fuel.
+040	02	\s's waypoint, \s, appears to have been destroyed or has disappeared. Orders have been changed to go to the last known location of the fleet.
+041	02	The fleet you were tracking with \s, appears to have ducked behind \p. Orders for your fleet have been changed to go to that planet.
+042	01	The fleet you were tracking with \s, appears to have outrun the range of your scanners. Orders for your fleet have been changed to go to the last known location of that fleet.
+043	06	\s has loaded \V of \m from \n.
+044	06	\s has beamed \V \m from \n.
+045	06	\s has unloaded \V of \m to \n.
+046	06	\s has beamed \V \m to \n.
+047	02	Your starbase at \p has built a new \z.
+048	03	Your starbase at \p has built \i new \z ships.
+049	03	Your starbase at \p has built a new \z which is being routed to \p.
+050	04	Your starbase at \p has built \i new \z ships which are being routed to \p.
+051	03	Your starbase at \p has built a new \z which will not be routed to \p due to a lack of fuel.
+052	04	Your starbase at \p has built \i new \z ships which will not be routed to \p due to a lack of fuel.
+053	01	You have built a factory on \p.
+054	02	You have built \i factories on \p.
+055	01	You have built a mine on \p.
+056	02	You have built \i mines on \p.
+057	01	You have built a defense outpost on \p.
+058	02	You have built \i defense outposts on \p.
+059	04	You have upgraded the \i defenses on \p to use \k technology.
+060	05	There isn't enough fuel available at \n to allow \s to get to the next waypoint. Your fleet will wait for more fuel. You need about \vmg more fuel.
+061	05	\s will never make it to its next waypoint as its fuel capacity is \vmg and the trip requires approximately \vmg of fuel.
+062	01	\p has completed its orders. The production queue is empty.
+063	01	The production queue on \p is empty.
+064	01	All of your colonists on \p have jumped ship. You no longer control the planet.
+065	01	Your colonists orbiting \p have abandoned their starbase and you no longer control the planet.
+066	05	\o successfully transferred \V of \m to \o.
+067	05	\o successfully transferred \V \m to \o.
+068	05	\o successfully received \V of \m from \o.
+069	05	\o successfully received \V \m from \o.
+070	07	\o attempted to transfer \V of \m to \o. Only \U was successfully received.
+071	07	\o attempted to transfer \V \m to \o. Only \v00 Colonists were successfully received. The rest perished in Deep Space!
+072	07	\o only received \V of \m from \o. However, \U was sent. The remainder was lost in space.
+073	07	\o only received \V \m from \o. However, \v00 Colonists were sent. The remains of the other colonists are scattered across Deep Space!
+074	05	\o attempted to transfer \V of \m to \o. None of it was successfully received.
+075	05	\o attempted to transfer \V \m to \o. None of the Colonists were successfully received. They all perished in Deep Space!
+076	05	\o attempted to receive \V of \m from \o. However, all of it was lost in Deep Space.
+077	05	\o attempted to receive \V \m from \o. However, none of the Colonists were successfully received. The remains of colonists are scattered across Deep Space!
+078	01	\s has completed its assigned orders.
+079	02	Your starbase at \p failed to build a new ship of type \i because someone lost the plans!
+080	03	Your scientists have completed research into Tech Level \i for \j. They will continue their efforts in the \j field.
+081	01	\s has an order to colonize, but is not currently in orbit of a planet. This order has been canceled.
+082	03	\s has orders to colonize \p, but \p is already populated. The colonize order has been canceled.
+083	02	\s has orders to colonize \p, but you have failed to bring along any colonists. The colonize order has been canceled.
+084	03	\s has orders to colonize \p, but none of the ships in \s have a colonization module. The colonize order has been canceled.
+085	02	\s has tried to beam colonists down to \p, but the planet is uninhabited. You must outfit a ship with a colony module and give it orders to colonize.
+086	02	The captain of \s has attempted to beam colonists down to \p, but was overruled by the bridge crew since your people cannot survive on the surface of a planet.
+087	01	Your colonists attempting to set up shop on \p were reduced to protoplasmic blobs when they landed on the surface due to their inability to survive on planets.
+088	01	All of your colonists assaulting \p have been killed by forces from the orbiting starbase.
+089	04	\F has been dismantled for \vkT of minerals which have deposited on \p.
+090	04	\F has been dismantled for \vkT of minerals at the starbase orbiting \p.
+091	02	\X\F has been dismantled. The scrap was left in deep space.
+092	06	\F has been dismantled for \vkT of minerals which have deposited on \p. Ultimate recycling has also made \v resources available for immediate use (less if other ships were scrapped here this year).
+093	06	\F has been dismantled for \vkT of minerals at the starbase orbiting \p. Ultimate recycling has also made \v resources available for immediate use (less if other ships were scrapped here this year).
+094	03	Your colonists settling \p have found a strange artifact boosting your research in \j by \i resources.
+095	03	Your recent breakthrough in \j has also given you the \k benefit.
+096	03	\s has bombed \p, killing \i00 colonists.
+097	02	\s has bombed \p, destroying one installation.
+098	03	\s has bombed \p, destroying \i defenses, factories and mines.
+099	04	\s has bombed \p, killing \i00 colonists, and destroying one\X installation.
+100	04	\s has bombed \p, killing \i00 colonists, and destroying \i defenses, factories and mines.
+101	04	\s has bombed \p, killing \i00 colonists. Planetary defenses stopped \P of your bombs.
+102	04	\s has bombed \p, destroying one\X installation. Planetary defenses stopped \P of your bombs.
+103	04	\s has bombed \p, destroying \i factories and mines. Planetary defenses stopped \P of your bombs.
+104	05	\s has bombed \p, killing \i00 colonists, and destroying one\X installation. Planetary defenses stopped \P of your bombs.
+105	05	\s has bombed \p, killing \i00 colonists, and destroying \i defenses, factories and mines. Planetary defenses stopped \P of your bombs.
+106	03	The \s has bombed \p, killing \i00 of your colonists.
+107	03	The \s has bombed \p, destroying one\X of your installations.
+108	03	The \s has bombed \p, destroying \i of your defenses, factories and mines.
+109	03	The \s has bombed \p, killing \i00 of your colonists, and destroying one of your installations.
+110	04	The \s has bombed \p, killing \i00 of your colonists, and destroying \i of your defenses, factories and mines.
+111	04	The \s has bombed \p, killing \i00 of your colonists. Planetary defenses destroyed \P of the incoming bombs.
+112	04	The \s has bombed \p, destroying one\X of your installations. Planetary defenses destroyed \P of the incoming bombs.
+113	04	The \s has bombed \p, destroying \i of your defenses, factories and mines. Planetary defenses destroyed \P of the incoming bombs.
+114	05	The \s has bombed \p, killing \i00 of your colonists, and destroying one\X of your installations. Planetary defenses destroyed \P of the incoming bombs.
+115	05	The \s has bombed \p, killing \i00 of your colonists, and destroying \i of your defenses, factories and mines. Planetary defenses destroyed \P of the incoming bombs.
+116	02	Engine radiation has killed \i00 colonists traveling in \s.
+117	02	\s had orders to mine \p, but the fleet doesn't have any remote mining modules. The order has been canceled.
+118	02	Remote mining robots from \s had orders to mine \p, but the planet is inhabited. The order has been canceled.
+119	01	Remote mining robots from \s had orders to mine in deep space. The order has been canceled.
+120	03	Your recent breakthrough in \j has also given you the \k hull type. To build ships with this design, go to the Ship Design dialog, select Available Hull Types, and press Copy Selected Design.
+121	05	\s has loaded \V of \m from \s.
+122	05	\s has beamed over \V \m from \s.
+123	04	Your terraforming efforts on \p have \I the \e to \E.
+124	03	\p has built a new \k planetary scanner.
+125	06	\s has been loaded with \V of \m by the mining robots of \s working on \p.
+126	02	A battle took place at \n. Press the Goto button to view the VCR recording of the battle.
+127	00	Tip: You can hide unimportant messages by clicking the checkmark in the messages titlebar. You can reshow these messages at any time by clicking on the magnifying glass in the titlebar.
+128	00	Tip: To add waypoints, select a ship, then click on the desired destination while holding down the Shift key. You can also drag existing waypoints to move them to a new location.
+129	00	Tip: To design your own ships, press 'F4', select 'Available Hull Types', pick one from the dropdown, and hit the 'Copy' button.
+130	00	Tip: Popup help is available over many of the displayed statistics. For example you can click on planet statistics in the summary window to get additional details.
+131	01	A small comet has crashed into \p bringing new minerals and altering the planet's environment.
+132	01	A medium-sized comet has crashed into \p bringing a significant quantity of minerals to the planet.
+133	01	A large comet has crashed into \p bringing a wide variety of new minerals and drastically altering the planet's environment.
+134	01	A huge comet has crashed into \p embedding vast quantities of minerals in the planet and radically altering its environment.
+135	02	A small comet has crashed into your planet \p, killing 25% of your colonists. The comet brought additional minerals and has altered the planet's \e.
+136	03	A medium-sized comet has crashed into your planet \p, killing 45% of your colonists. The comet brought additional minerals and has altered the planet's \e and \e.
+137	04	A large comet has crashed into your planet \p, killing 65% of your colonists. The comet brought significant quantities of minerals and has altered the planet's \e, \e, and \e.
+138	04	A huge comet has crashed into your planet \p, killing 85% of your colonists. The comet has embedded vast stores of minerals and has altered the planet's \e, \e, and \e.
+139	02	\s has run out of fuel. The fleet's speed has been decreased to Warp \i.
+140	02	Your scientists on \p have transmuted common materials into \ikT each of Ironium, Boranium and Germanium.
+141	05	A battle took place at \n. Your \z was destroyed. The screams of \v00 colonists echo in your brain.
+142	05	A battle took place at \n. Your \z was destroyed. All \v00 colonists have joined with the cosmic all.
+143	02	\s has bombed \p, killing off all the enemy colonists.
+144	02	\s has bombed \p, killing all of your colonists.
+145	04	A battle took place at \n. Your \z destroyed \z, taking no damage.
+146	04	A battle took place at \n. Your \z was destroyed by \z, which took no damage.
+147	04	A battle took place at \n. Your \z destroyed \z, however, it took some damage in the fray.
+148	04	A battle took place at \n. Your \z was destroyed by \z, which was damaged in the fray.
+149	04	A battle took place at \n. Neither your \z nor \z was destroyed in the incident.
+150	06	A battle took place at \n. Your \z*\i destroyed \z*\i, taking no damage.
+151	06	A battle took place at \n. Your \z*\i was destroyed by \z*\i, which took no damage.
+152	06	A battle took place at \n. Your \z*\i destroyed \z*\i, however, it took some damage in the fray.
+153	06	A battle took place at \n. Your \z*\i was destroyed by \z*\i, which was damaged in the fray.
+154	06	A battle took place at \n. Neither your \z*\i nor \z*\i was completely destroyed in the incident.
+155	04	A battle took place at \n against \l. \i of your forces destroyed all of the enemy forces, taking no casualties.
+156	04	A battle took place at \n against \l. All of your forces were destroyed by \i of the enemy's forces.
+157	05	A battle took place at \n against \l. \i of your forces destroyed all of the enemy forces, however, \i of your ships were destroyed.
+158	05	A battle took place at \n against \l. All of your forces were destroyed by \i of the enemy's forces. You managed to destroy \i of the enemy's forces.
+159	07	A battle took place at \n against \l. Neither your \i forces nor the enemy's \i forces were completely wiped out. You lost \i and the enemy lost \i.
+160	05	A battle took place at \n against \l. \i of your forces destroyed \z, taking no casualties.
+161	05	A battle took place at \n against \l. Your \z was destroyed by \i of the enemy's forces.
+162	06	A battle took place at \n against \l. \i of your forces destroyed \z, however, \i of your forces were destroyed.
+163	06	A battle took place at \n against \l. Your \z was destroyed by \i of the enemy's forces. You managed to destroy \i of the their forces.
+164	04	A battle took place at \n involving \i races. \i of your forces destroyed all the enemy forces without a single casualty.
+165	05	A battle took place at \n involving \i races. You lost \i of your \i forces. All of the enemy forces were destroyed.
+166	05	A battle took place at \n involving \i races. Your entire armada of \i forces was destroyed by \i enemy forces. You didn't manage to destroy a single ship.
+167	06	A battle took place at \n involving \i races. Your entire armada of \i forces was destroyed by \i enemy forces. They lost \i forces.
+168	07	A battle took place at \n involving \i races. You lost \i of your \i forces while they lost \i of their \i forces.
+169	01	Your home planet is \p. Your people are ready to leave the nest and explore the universe. Good luck.
+170	02	You have found a planet occupied by someone else. \p is currently owned by \l.
+171	02	You have found a new planet which unfortunately is not habitable by you. \P of your colonists will die each year if you colonize \p.
+172	02	You have found a new habitable planet. Your colonists will grow by up to \P per year if you colonize \p.
+173	01	You have found a new planet but you don't know if it is habitable or not yet. \p will remain a mystery until you visit it with a fleet with better scanners.
+174	02	You have found a new planet which you have the ability to make habitable. With terraforming, your colonists will grow by up to \P per year if you colonize \p.
+175	01	\p has built as many mines as the current population can operate. Auto building of mines is temporarily blocked.
+176	01	\p has built as many mines as the planet can support. Auto building of mines is stopped.
+177	01	\p has built as many factories as the current population can operate. Auto building of factories is temporarily blocked.
+178	01	\p has built as many factories as the planet can support. Auto building of factories is stopped.
+179	01	\p has built as many defenses as the current population can operate. Auto building of defenses is temporarily blocked.
+180	01	\p has built as many defenses as the planet can support. Auto building of defenses is stopped.
+181	01	The forces of \Z have been declared the winner of this game. You are advised to accept their supremacy, though you may continue the fight.
+182	00	You have been declared the winner of this game. You may continue to play though, if you wish to really rub everyone's nose in your grand victory.
+183	01	You, along with \Z have been declared the winners of this game. You may continue to play though, if you wish to attempt to improve your standing among your fellow dictators.
+184	00	You are dead. All your planets have been overrun and your spaceships defeated.
+185	01	The order to build a scanner at \p was canceled as you already have a scanner there.
+186	03	Your starbase at \p built \i new ship(s) of type \z but they were lost in an administrative goof. Your bureaucrats can only keep an eye on 512 fleets at a time.
+187	01	All traces of \L have been eliminated from the galaxy, may they rest in peace.
+188	00	All traces of every other rival have been eliminated from the galaxy. You alone are left to rule the universe!
+189	02	\s has accomplished all the remote terraforming you are currently capable of performing at \p.
+190	06	\XSomeone has swept \v mines from your \M mine field at \n.
+191	01	\s has attempted to lay mines. The order has been canceled because no ship in the fleet has a mine laying pod.
+192	01	\XThe Mystery Trader has decided to make another pass through known space to increase access to his wares.
+193	03	Due to the rigors of warp acceleration, \v00 of your colonists on \s have died.
+194	07	\s has swept \v mines from a \L \M mine field at \n.
+195	03	\s has dispersed \v mines.
+196	03	\s has increased a minefield by \v mines.
+197	05	\s has been stopped in a \L \M mine field at \n.
+198	06	\s has been stopped in a \L \M mine field at \n. Your fleet has taken \i damage points but none of your ships were destroyed.
+199	07	\s has been stopped in a \L \M mine field at \n. Your fleet has taken \i damage points and \i of your ships were destroyed.
+200	06	\X\F has been annihilated in a \L \M mine field at \n.
+201	04	\s has been stopped in your \M mine field at \n.
+202	05	\s has been stopped in your \M mine field at \n. Your mines have inflicted \i damage points, but you didn't manage to destroy any ships.
+203	06	\s has been stopped in your \M mine field at \n. Your mines have inflicted \i damage points and you have destroyed \i of the ships.
+204	05	\X\s has been annihilated in your \M mine field at \n.
+205	02	\p has built a new \z.
+206	03	\p has built a new \z. Ships up to \ikT in total hull weight can now be built at this facility.
+207	02	\p has built a new \z. Ships of any size can now be built here.
+208	03	Your recent breakthrough in \j has also given you the \k hull. To design starbases with this hull, go to the Ship Design dialog, select Starbases, Available Hull Types, and press Copy Selected Design.
+209	01	The mineral packet formed at \p has disintegrated because the planet does not have a mass accelerator.
+210	01	The mineral packet formed at \p has disintegrated because you didn't target the mass accelerator. Click on the Set Dest button in the Starbase tile to target the accelerator.
+211	02	\p has produced a mineral packet which has a destination of \p.
+212	02	\p has produced a mineral packet which has been combined with another packet heading for \p.
+213	04	Your mass accelerator at \p has successfully captured a packet\S containing \vkT of minerals.
+214	05	Your mass accelerator at \p was partially successfully in capturing a \vkT mineral packet\S. Unable to completely slow the packet, \i00 of your colonists were killed in the collision.
+215	06	Your mass accelerator at \p was partially successfully in capturing a \vkT mineral packet\S. Unfortunately, \i00 of your colonists and \i of your defenses were destroyed in the collision.
+216	05	\p was bombarded with a \vkT mineral packet\S. \i00 of your colonists were killed by the collision.
+217	06	\p was bombarded with a \vkT mineral packet\S. \i00 of your colonists and \i of your defenses were destroyed by the collision.
+218	02	\p was annihilated by a mineral packet\S. All of your colonists were killed.
+219	04	\s didn't get all the \m it attempted to transfer from the mineral packet as another player stole it first. Only \ikT of \m was actually acquired.
+220	02	\s didn't get any of the \m it attempted to transfer from the mineral packet as another player stole it first.
+221	04	\o was unable to transfer \ikT of \m out of the \ikT request.
+222	03	\s attempted to use a stargate at \n, but no stargate exists there.
+223	01	One of your ships in \s was destroyed when its engines over-reacted trying to achieve Warp 10.
+224	02	\i of your ships in \s were destroyed due to engine strain.
+225	01	\s was destroyed in a massive reactor accident due to unsafe operating procedures.
+226	04	\s attempted to use the stargate at \p to reach \n but could not because no stargate could be detected at the destination.
+227	03	\s attempted to use the stargate at \p to reach \p but could not because the destination is out of range.
+228	04	\s attempted to use the stargate at \p to reach \p but could not because ships of type \z are too massive.
+229	04	\s attempted to use the stargate at \p to reach \p but could not because the starbase at \p blocked it. The planet at each end must be owned by you or a friend of yours.
+230	03	\s attempted to use the stargate at \p but could not because the starbase at \p is not owned by you or a friend of yours.
+231	03	Heedless to the danger, \s attempted to use the stargate at \p to reach \p. The fleet never arrived. The distance or mass must have been too great.
+232	04	\s used the stargate at \p to reach \p losing only \i ships to the treacherous void. They were fortunate. They exceeded the capability of the gates.
+233	04	\s used the stargate at \p to reach \p losing \i ships to the unforgiving void. Exceeding the capability of your stargates is not recommended.
+234	04	\s used the stargate at \p to reach \p unfortunately losing \i ships to the great unknown. Exceeding the capability of your stargates is dangerous.
+235	05	\s used the stargate at \p to reach \p losing an unbelievable \v ships. The jump was far in excess of the capabilities of starbases involved.
+236	04	\s has unloaded \vkT of minerals to \p in preparation for jumping through the stargate.
+237	04	\s has unloaded \v00 colonists to \p in preparation for jumping through the stargate.
+238	06	\s has unloaded \v00 colonists and \vkT of minerals to \p in preparation for jumping through the stargate.
+239	05	Wreckage discovered at your battle at \n has boosted your research in \j by \v resources.
+240	05	Wreckage from the battle that occurred in orbit of \n has boosted your research in \j by \v resources.
+241	05	Your fleet found wreckage from the battle at \n which has boosted your research in \j by \v resources.
+242	01	\s was unable to engage it's engines due to balky equipment. Engineers think they have the problem fixed for the time being.
+243	02	\s's ram scoops have produced \img of fuel from interstellar hydrogen.
+244	07	Your starbase at \p has swept \v mines from a \L \M mine field at \n.
+245	01	\s was unable to complete it's merge orders as the waypoint destination wasn't a fleet.
+246	01	\s was unable to complete it's merge orders as the destination fleet wasn't one of yours.
+247	02	\F has been merged into \s.
+248	01	The Wormhole \s was heading for has vanished. Orders have been changed to go to the last known location of the Wormhole.
+249	01	Your colony on \p reports a battle took place in orbit. Your forces were not involved.
+250	03	\s reports a battle took place at \n. Your forces were not involved.
+251	02	Your colonists in \s have made good use of their time increasing their on-board number by \i00 colonists.
+252	01	\p does not have enough minerals available to fling any packets this year.
+253	02	Fundamental changes in the environment of \p have permanently altered the planet's \e. This change has canceled all planetary production.
+254	02	Your surveyors on \p have discovered a previously unknown deposit of \m, significantly increasing the planet's concentration.
+255	02	Your patrolling \s has targeted \s for intercept.
+256	00	Your population suspects you are a usurper. Their productivity is off 20% and their growth rate was halved last year. Press 'Goto' to validate your copy of Stars!
+257	01	Your colonists suspect that you are in fact the \l emperor. Their productivity is off 20% and their growth rate was halved last year. Press 'Goto' to enter your UNIQUE Stars! serial number.
+258	01	\s has refused to move, doubting your authority to rule. Press the 'Goto' button to enter your UNIQUE Stars! serial number and assert your authority.
+259	00	Your fleet captains have staged a strike and demand free elections. None of your fleets moved this year. Press 'Goto' to enter your UNIQUE Stars! serial number.
+260	01	\s has defected from your ranks due to your inability to project legitimate power. Press the 'Goto' button to enter your UNIQUE Stars! serial number.
+261	02	The crew of \s has sold off \i% of their cargo on the black market to pad their salaries. Press the 'Goto' button to crack down on this illegal activity.
+262	02	Freedom fighters on \p have attacked and destroyed \i of your mines. Press the 'Goto' button to restore law and order.
+263	03	Freedom fighters on \p have stolen \ikT of \m from your stockpiles. Press the 'Goto' button to restore law and order.
+264	01	The Mystery Trader has refused to give the captain of \s an audience. It may be due to an insufficient quantity of minerals carried by your fleet.
+265	02	\F has been absorbed by the Mystery Trader. The trader has given you \i technology advances. The trader suggests that you visit other traders as they may carry different items of interest.
+266	02	\F has been absorbed by the Mystery Trader. In return, the trader has given you \i technology advances.
+267	01	\F has been absorbed by the Mystery Trader. You have been given the plans for a unique part to place on your ships. The trader suggests you visit other traders.
+268	01	\F has been absorbed by the Mystery Trader. In return, you have been given the plans for a new ship hull. The trader suggests you visit other traders.
+269	01	\F has been absorbed by the Mystery Trader. However, the trader was unable to teach you anything new.
+270	01	\F has been absorbed by the Mystery Trader. However, the trader was unable to teach you anything new. The trader says that you might have better luck with a different trader.
+271	01	\F has been absorbed by the Mystery Trader. In return, you have been given the plans for a powerful planetary device. The trader suggests you visit other traders.
+272	01	The Mystery Trader \s was heading for has vanished. Orders have been changed to go to the last known location of the Trader.
+273	01	The Mine Field \s was heading for has vanished. Orders have been changed to go to the last known location of the field.
+274	01	\p does not have enough minerals available to continue its auto build orders.
+275	05	A battle took place at \n against \l. Your \z destroyed all \i of the enemy forces.
+276	05	A battle took place at \n against \l. All \i of your forces were destroyed by \z.
+277	06	A battle took place at \n against \l. Neither your \z nor the enemy's \i forces were completely wiped out. The enemy lost \i.
+278	06	A battle took place at \n against \l. Neither your \i forces nor \z were completely wiped out. You lost \i.
+279	00	Your race definition has been tampered with. Statistics have been altered to bring you into compliance with the cosmic code.
+280	01	The Mystery Trader eyes the captain of \s suspiciously and suggests that he is still recovering from the last transaction with you.
+281	05	\s has stolen \V of \m from \s.
+282	01	Obsolete \p.
+283	01	Strong fundamental forces have rebirthed \p.
+284	02	\s attempted to execute transfer orders with \g involving either fuel or colonists. The attempt failed.
+285	02	\s attempted to execute transfer orders at \p involving fuel. Planets have no way to store fuel.
+286	02	\s had orders to transfer cargo to or from a \G. A futile pursuit.
+287	02	\s attempted to load \m from a planet you don't control. Order has been canceled.
+288	02	\s attempted to load \m from a fleet you don't control. Order has been canceled.
+289	06	\s attempted to set it's amount of \m on board to \U. Unfortunately \n couldn't provide enough. Fleet will wait until able to fulfill the order.
+290	06	\s attempted to set it's number of \m on board to \U. Unfortunately \n couldn't provide enough people. Fleet will wait until able to fulfill the order.
+291	02	\s attempted to load \m or from deep space. The attempt was unsuccessful.
+292	05	\s attempted to shanghai \v00 colonists from \n. The attempt was unsuccessful.
+293	05	\s attempted to steal \vmg of fuel from \n. The attempt was unsuccessful.
+294	03	\s failed to load fuel from \n.
+295	03	\s is at \p and has been rerouted to \p.
+296	03	\s is at \p and has been rerouted to \p. Unfortuently it does not have enough fuel on board to make the journey so the fleet will wait for further instructions.
+297	01	\p has orders to build a mineral packet, but either doesn't have a mass accelerator, or hasn't targeted the accelerator. The order to build has been canceled.
+298	01	\p has orders to build planetary installations beyond the maximum allowed. The orders have been reduced to the maximum allowable.
+299	01	\XA mysterious trading vessel broadcasting a proposal has been detected entering known space.
+300	04	\s has improved \p from a value of \i% to \i%.
+301	03	\s is currently unable to improve the value of \p beyond \i%.
+302	03	\s has retro-bombed \p, undoing \i% of its terraforming.
+303	01	\p has orders to terraform beyond the maximum allowed. The orders have been reduced to the maximum allowable.
+304	01	\XThe Mystery Trader has unexplicably changed his course and/or speed. Perhaps something startled him?
+305	04	Your mineral packet has permanently \I the default \e on \p by \i%.
+306	04	A mineral packet has permanently \I the default \e on \p by \i%.
+307	04	Your mineral packet has \I the \e on \p to \E.
+308	04	A mineral packet has \I the \e on \p to \E.
+309	02	\s has tried to beam colonists down to \p, but the planet's starbase would kill them all before they land. The bridge crew rescinds the order.
+310	03	Your scientists have completed research into Tech Level \i for \j. Their primary research focus for next year is the \j field.
+311	01	\s has executed orders to follow a fleet and awaits further direction.
+312	01	\s had orders to follow a fleet which didn't move. The crew awaits further orders.
+313	04	Your starbase at \p built \i new \z(s) but due to a lack of 27B/6 Fleet ID Requisition forms they have been merged with \s which fortunately happend to be nearby.
+314	02	Examination of wreckage from the battle at \n uncovered plans for a new part to place on your ships.
+315	02	Examination of wreckage from the battle at \n uncovered plans for a new ship hull.
+316	04	\s has been dismantled for \vkT of minerals at the starbase orbiting \p. In the process you have discovered a new technology.
+317	05	\s has been dismantled for \vkT of minerals at the starbase orbiting \p. In the process you have gained a research level in \j.
+318	06	\s has been dismantled for \vkT of minerals which have deposited on \p. It has also made \v resources available for immediate use. In the process you have discovered a new technology.
+319	07	\s has been dismantled for \vkT of minerals at the starbase orbiting \p. It has also made \v resources available for immediate use. In the process you have gained a level in \j.
+320	04	\s has been dismantled for \vkT of minerals which have deposited on \p.
+321	04	\s has been dismantled for \vkT of minerals at the starbase orbiting \p.
+322	06	\s has been dismantled for \vkT of minerals which have deposited on \p. Ultimate recycling has also made \v resources available for immediate use (less if other ships were scrapped here this year).
+323	06	\s has been dismantled for \vkT of minerals at the starbase orbiting \p. Ultimate recycling has also made \v resources available for immediate use (less if other ships were scrapped here this year).
+324	05	A battle took place at \n. You destroyed \z killing \v00 of their colonists in the bargain.
+325	03	Your recent breakthrough in \j has also taught you how to build \k defenses. All existing planetary defenses have been upgraded to the new technology.
+326	04	\p was bombarded with a packet\S containing \vkT of minerals. However, the packet didn't damage any of your installations or kill any colonists.
+327	03	\s attempted to reach \n via stargate, but could not because no stargate could be detected at the destination.
+328	01	You couldn't give \s away because that player is dead.
+329	01	You couldn't give \s away because there were some of your colonists on board.
+330	02	You couldn't give \s away because \l didn't have the administrative capacity to maintain the fleet's records.
+331	01	\L attempted to give you a fleet, but you don't have enough excess design capacity to complete the transaction.
+332	01	\L snub your attempted gift and refuse the fleet.
+333	02	\F has successfully been given to \l.
+334	02	\L have given you \F.
+335	02	\F has been absorbed by the Mystery Trader. In return, you have been given \i of the Trader's auxillary ships for your own use.
+336	01	\F has been absorbed by the Mystery Trader. In return, the trader tried to give you a ship, but you were unable to store the design records necessary for upkeep.
+337	02	\XA mass packet appears to be on a collision course with \p, which currently is unable to safely catch the packet.
+338	01	Your starbase at \p is scheduled to complete all remaining production items this year.
+339	00	You have received one battle recording this year.
+340	01	You have received \i battle recordings this year.
+341	01	\s is not allowed to transfer colonists to another player.
+342	02	\p has been auto terraformed to a value of \i%.
+343	03	Your recent breakthrough in \j has also taught you how to build the \k scanner. All existing planetary scanners have been upgraded to the new technology.
+344	04	Breeding activities on \s have overflowed living space. \v00 colonists have been beamed down to \p.
+345	02	Your intelligence gathering activities combined with synergistic science have aided your research efforts in \j by \i resources.
+346	04	\s has degraded \p from a value of \i% to \i%.
+347	03	\s is currently unable to degrade the value of \p beyond \i%.
+348	02	Your engineers on \p have managed to improve the underlying \e by 1%.
+349	02	You have info on a new planet. If you colonize \p, you can make its value \i%.
+350	02	\s was unable to use the stargate at \p because you had colonists on board and do not control the planet.
+351	05	\F has been annihilated in a \L \M mine field at \n.
+352	06	\s has been damaged by a detonating \L \M mine field at \n. Your fleet has taken \i damage points but none of your ships were destroyed.
+353	07	\s has taken damage from a detonating \L \M mine field at \n. Your fleet has taken \i damage points and \i of your ships were destroyed.
+354	04	\F has been annihilated in your \M mine field at \n.
+355	05	\s has been damaged by your detonating \M mine field at \n. Your mines have inflicted \i damage points, but you didn't manage to destroy any ships.
+356	06	\s has been damaged by your detonating \M mine field at \n. Your mines have inflicted \i damage points and you have destroyed \i of the ships.
+357	01	\s has tried to beam colonists to deep space. This order has been canceled.
+358	03	Your fleets\X have bombed \p, killing \i00 colonists.
+359	02	Your fleets\X have bombed \p, destroying one installation.
+360	03	Your fleets\X have bombed \p, destroying \i defenses, factories and mines.
+361	04	Your fleets\X have bombed \p, killing \i00 colonists, and destroying one\X installation.
+362	04	Your fleets\X have bombed \p, killing \i00 colonists, and destroying \i defenses, factories and mines.
+363	04	Your fleets\X have bombed \p, killing \i00 colonists. Planetary defenses stopped \P of your bombs.
+364	04	Your fleets\X have bombed \p, destroying one\X installation. Planetary defenses stopped \P of your bombs.
+365	04	Your fleets\X have bombed \p, destroying \i factories and mines. Planetary defenses stopped \P of your bombs.
+366	05	Your fleets\X have bombed \p, killing \i00 colonists, and destroying one\X installation. Planetary defenses stopped \P of your bombs.
+367	05	Your fleets\X have bombed \p, killing \i00 colonists, and destroying \i defenses, factories and mines. Planetary defenses stopped \P of your bombs.
+368	03	\O fleets have bombed \p, killing \i00 of your colonists.
+369	03	\O fleets have bombed \p, destroying one\X of your installations.
+370	03	\O fleets have bombed \p, destroying \i of your defenses, factories and mines.
+371	03	\O fleets have bombed \p, killing \i00 of your colonists, and destroying one of your installations.
+372	04	\O fleets have bombed \p, killing \i00 of your colonists, and destroying \i of your defenses, factories and mines.
+373	04	\O fleets have bombed \p, killing \i00 of your colonists. Planetary defenses destroyed \P of the incoming bombs.
+374	04	\O fleets have bombed \p, destroying one\X of your installations. Planetary defenses destroyed \P of the incoming bombs.
+375	04	\O fleets have bombed \p, destroying \i of your defenses, factories and mines. Planetary defenses destroyed \P of the incoming bombs.
+376	05	\O fleets have bombed \p, killing \i00 of your colonists, and destroying one\X of your installations. Planetary defenses destroyed \P of the incoming bombs.
+377	05	\O fleets have bombed \p, killing \i00 of your colonists, and destroying \i of your defenses, factories and mines. Planetary defenses destroyed \P of the incoming bombs.
+378	03	Your fleets\X have retro-bombed \p, undoing \i% of its terraforming.
+379	03	\O fleets have retro-bombed \p, undoing \i% of its terraforming.
+380	02	Your fleets\X have bombed \p, killing off all the enemy colonists.
+381	02	\O fleets have bombed \p, killing all of your colonists.
+382	01	\s failed to lay mines this year due to technical difficulties.
+383	01	\p failed to fling a mineral packet due to technical difficulties.
+384	02	Due to excessive fleet maneuvering in the battle area, some of your fleets could not participate in the battle at \n and will be unable to fulfill their assigned tasks this year.
+385	04	\p was bombarded with a \vkT mineral packet\S. Fortunately, no one was home at the time.
+386	01	Hacked race discovered. \L race statistics have been altered to bring them into compliance with the cosmic code.
